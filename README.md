@@ -36,7 +36,7 @@ The project integrates TensorBoard to visualize training metrics, such as loss o
 
 Below are some screenshots of the simulation in action. Replace the placeholder image paths with your actual screenshot files.
 
-![Screenshot 1](assets/images/spline observation.png)
+![Screenshot 1](./assets/images/spline_observation.png)
 *Figure 1: The car navigating the circuit using median-based observation.*
 
 ![Screenshot 2](./path/to/screenshot2.png)
